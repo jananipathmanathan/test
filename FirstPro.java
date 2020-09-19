@@ -12,7 +12,6 @@ public class FirstPro
 			sum = sum + i;
 		}
 		System.out.println("sum is " + sum);
-HEAD
 
 		
 		//------------------------------------------------------------//
@@ -25,6 +24,5 @@ HEAD
 			prod = prod * i;
 		}
 		System.out.println("Product is " + prod);
-sleepy
 	}
 }
