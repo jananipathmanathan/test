@@ -9,6 +9,7 @@ class FirstPro
 		if(ans.equals("Y") || ans.equals("y"))
 		{
 			System.out.println("Eat samosa");
+			System.out.println("Eat pizza");
 		}
 		if(ans.equals("N") || ans.equals("n"))
 		{
