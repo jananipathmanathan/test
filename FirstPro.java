@@ -12,5 +12,17 @@ public class FirstPro
 			sum = sum + i;
 		}
 		System.out.println("sum is " + sum);
+HEAD
+
+		
+		int prod = 1;
+		System.out.println("Enter 3 numbers");
+		int ans = sc.nextInt();
+		for(int i = 1; i<=3; i++)
+		{
+			prod = prod * i;
+		}
+		System.out.println("Product is " + prod);
+sleepy
 	}
 }
