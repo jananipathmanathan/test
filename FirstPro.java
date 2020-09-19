@@ -15,6 +15,8 @@ public class FirstPro
 HEAD
 
 		
+		//------------------------------------------------------------//
+		
 		int prod = 1;
 		System.out.println("Enter 3 numbers");
 		int ans = sc.nextInt();
