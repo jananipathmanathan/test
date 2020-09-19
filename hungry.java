@@ -5,5 +5,8 @@ class FirstPro
 		System.out.println("Eat samosa");
 		System.out.println("Eat pizza");
 		
+		
+		
+		System.out.println("sleep well");
 	}
 }
