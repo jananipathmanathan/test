@@ -13,6 +13,8 @@ public class FirstPro
 		}
 		System.out.println("sum is " + sum);
 		
+		//------------------------------------------------------------//
+		
 		int prod = 1;
 		System.out.println("Enter 3 numbers");
 		int ans = sc.nextInt();
