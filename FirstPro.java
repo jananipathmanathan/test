@@ -4,16 +4,13 @@ public class FirstPro
 	public static void main(String args[])
 	{
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Are you hungry?");
-		String ans = sc.nextLine();
-		if(ans.equals("Y") || ans.equals("y"))
+		int sum = 0;
+		System.out.println("Enter 3 numbers");
+		int ans = sc.nextInt();
+		for(int i = 1; i<=3; i++)
 		{
-			System.out.println("Eat samosa");
-			System.out.println("Eat pizza");
+			sum = sum + i;
 		}
-		if(ans.equals("N") || ans.equals("n"))
-		{
-			System.out.println("Do your Homework");
-		}
+		System.out.println("sum is " + sum);
 	}
 }
